@@ -1,3 +1,4 @@
 ls -l
 pwd
-cd
+
+yum list install | grep vim
