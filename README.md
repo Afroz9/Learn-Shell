@@ -6,7 +6,7 @@ Topics of shell scripting
 2. printing
 3. Variables
 4. Functions
-5. Conditionss
+5. Conditions
 6. Loops
 7. Inputs
 8. Exit status
