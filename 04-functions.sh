@@ -5,9 +5,10 @@ print_hello() {
 print_hello
 
 print_argument() {
-  echo First Argument $1
-  echo Second Argument $2
-  echo All Arguments - $*
-  echo No of Arguments - $#
+  echo First argument $1
+  echo Second argument $2
+  echo All arguments - $*
+  echo No of arguments - $#
 }
-Print_Arguments abc 123 xyz
+
+print_arguments abc 123 xyz
