@@ -4,7 +4,7 @@ print_hello() {
 
 print_hello
 
-print_argument() {
+print_arguments() {
   echo First argument $1
   echo Second argument $2
   echo All arguments - $*
