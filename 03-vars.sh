@@ -8,7 +8,7 @@ echo value of a is ${a}dollars
 # Special variables for inputs
 # Special variables used for input are $0 to $n, $* $#
 
-echo $0
-echo $n
-echo $*
-echo $#
+echo Script Name - $0
+echo First Argument - $1
+echo All Argument - $*
+echo No Of Argument - $#
