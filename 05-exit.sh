@@ -1,5 +1,5 @@
 
 echo Hello
-exit
+exit 1
 echo bye
 
